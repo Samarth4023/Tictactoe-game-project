@@ -1,8 +1,6 @@
-# skillvertex-tictactoe-game-major-project
+# Tictactoe-game-project
 
-FREE
-
-Create a Tic Tac Toe Game play web Application
+## Tic Tac Toe Game play web Application
 Goal with this project is to create a tic-tac-toe game in Python. For the
 game interface, I've used the Django web application framework.
 The tic-tac-toe game is for two players. One player plays X and the other
